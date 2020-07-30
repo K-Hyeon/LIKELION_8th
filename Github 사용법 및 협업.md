@@ -45,15 +45,15 @@
 #### 1. 작업하고 싶은 Repository fork 해오기
 ##### Reposotory 오른쪽 위의 fork 버튼
 #### 2. 자신의 로컬에서 작업
-##### cd fork 
-##### git clone url
-##### code .
-#####  비주얼 코드에서 코드 수정
+###### cd fork 
+###### git clone url
+###### code .
+######  비주얼 코드에서 코드 수정
 ##### git status (수정 사항 확인 가능)
 #### 3. 변경사항을 자신의 브랜치에 Push
-##### git add . (변경사항 저장)
-##### git commit -m "id change" 
-##### git checkout -b 저장하고자하는 이름 
-##### git push origin 저장하고자하는 이름 
+###### git add . (변경사항 저장)
+###### git commit -m "id change" 
+###### git checkout -b 저장하고자하는 이름 
+###### git push origin 저장하고자하는 이름 
 #### 4. 원본 레포지토리 소유자에게 Pull request 요청
 #### 5. 소유자가 pull request를 승인하여 merge하면 자동으로 collaborator 추가
