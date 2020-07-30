@@ -1,4 +1,4 @@
-## Likelion8th
+## Likelion8th 김혜현
 
 1학기 커리큘럼
 -------------
