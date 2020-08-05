@@ -81,15 +81,41 @@
 ~~~
 super_hero.members
 ~~~
-'''
+~~~
 super_hero["members"]
-'''
+~~~
 #### members의 첫번째 리스트
-'''
+~~~
 super_hero.members[0]
-'''
-#### 3. 직렬화를 해준다.
-'''
-JSON
-'''
+~~~
+#### 3. 직렬화
+~~~
+JSON.stringify(super_hero);
+~~~
+#### 4. 역직렬화
+~~~
+JSON.parse(serialized);
+~~~
+
+## API(Application Programming Interface) 
+#### * Application : 우리가 사용하는 다양한 서비스들
+#### * Programming Interface : 서비스들이 제공해주는 데이터들에 접근하고 사용할 수 있도록 도와주는 도구.
+#### -> TV의 리모컨 같은 존재
+
+### < API의 종류 >
+#### * SOAP : Simple Object Access Protocol
+#### * REST : Representational State Transfer
+#### * GraphQL : Graph Query Language
+
+### < RST > 
+#### * REST는 하나의 아키텍쳐
+#### * 소프트웨어 아키텍처 : 소프트웨어를 설계하는 지침과 원칙
+##### 물론 꼭 전부 다 지켜야 하는 법이 아니기 때문에 완전히 Restful한 API는 많지 않다.
+
+### <REST의 구성요소>
+#### * 자원
+#### : URL에 매치되어 있는 데이터들(리소스)
+#### * 행위
+#### : GET, PATCH, POST, PUT, DELETE
+#### * 표현
 
