@@ -12,4 +12,5 @@
 
 ### 마스크 알리미
 #### 1. 들어가며[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EB%A7%88%EC%8A%A4%ED%81%AC%20%EC%95%8C%EB%A6%AC%EB%AF%B8%20%EB%93%A4%EC%96%B4%EA%B0%80%EB%A9%B0.md)
-#### 2. HTTP, JSON, API 개념[[Summaty]](
+#### 2. HTTP, JSON, API 개념[[Summaty]](https://github.com/K-Hyeon/Likelion8th/blob/master/HTTP,%20JSON,%20API%20%EA%B0%9C%EB%85%90.md)
+#### 3. Postman 실습, 공적 마스크 API 살펴보기[[Summary]](
