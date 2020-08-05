@@ -33,9 +33,10 @@
 
 ### < 슬습 > 
 #### 1. Chrome 접속 -> F12 -> Console
-#### 2. [MDN json](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) -> [JSON TEXT](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json)
+#### 2. [MDN json](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/JSON) -> [JSON TEXT](https://mdn.github.io/learning-area/javascript/oojs/json/superheroes.json) ->  super_hero라는 변수에 담음
+#### members안에는 리스트가 들어있고, 하나의 오브젝트에는 한사람을 표현 !
 ``` 
-{
+ let super_hero = {
   "squadName" : "Super Hero Squad",
   "homeTown" : "Metro City",
   "formed" : 2016,
@@ -75,5 +76,20 @@
       ]
     }
   ]
-}
-```
+ }
+``` 
+'''
+super_hero.members
+'''
+'''
+super_hero["members"]
+'''
+#### members의 첫번째 리스트
+'''
+super_hero.members[0]
+'''
+#### 3. 직렬화를 해준다.
+'''
+JSON
+'''
+
