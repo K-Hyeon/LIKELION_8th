@@ -10,5 +10,5 @@
 #### 4.Github 사용법 및 협업[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Github%20%EC%82%AC%EC%9A%A9%EB%B2%95%20%EB%B0%8F%20%ED%98%91%EC%97%85.md)
 
 
-###마스크 알리미
+### 마스크 알리미
 #### 1. 들ㅇ어가며[[Summary]](
