@@ -54,7 +54,7 @@
 ~~~
 #### 10. http://jsonplaceholder.typicode.com/posts/n
 #### : id가 n인 POST를 가져옴
-#### PATCH 매소드는 보내는 것만 수정되지만 PUT 매소드는 그대로 바꿔짐
+#### * PATCH 매소드는 보내는 것만 수정되지만 PUT 매소드는 그대로 바꿔짐
  
 ### < Open API >
 
