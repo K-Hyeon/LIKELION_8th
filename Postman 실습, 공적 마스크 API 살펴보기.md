@@ -27,10 +27,34 @@
     "id": 8,
     "title": "dolorem dolore est ipsam",
     "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
-  },
+  }
   ~~~
 #### 7. POST 매소드에서 (Body - raw - JSON)에 붙여넣기
-#### 8. 'Send' 
+#### 8. 'Send' 버튼
+#### 9. "comments": [], 을 추가
+~~~
+
+  {
+    "userId": 1,
+    "id": 8,
+    "comments": [],
+    "title": "dolorem dolore est ipsam",
+    "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+  }
+  ~~~
+  #### 결과
+~~~
+  {
+  "userId": 1,
+  "id": 101,
+  "comments": [],
+  "title": "dolorem dolore est ipsam",
+  "body": "dignissimos aperiam dolorem qui eum\nfacilis quibusdam animi sint suscipit qui sint possimus cum\nquaerat magni maiores excepturi\nipsam ut commodi dolor voluptatum modi aut vitae"
+}
+~~~
+#### 10. http://jsonplaceholder.typicode.com/posts/n
+#### : id가 n인 POST를 가져옴
+#### PATCH 매소드는 보내는 것만 수정되지만 PUT 매소드는 그대로 바꿔짐
  
 ### < Open API >
 
