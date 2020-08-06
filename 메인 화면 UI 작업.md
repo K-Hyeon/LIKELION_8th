@@ -1,8 +1,8 @@
 ## UI작업, Kakao Map 삽입
 
 ### < UI 작업 >
-#### * CSS, HTML 사용
-#### * Fontawesome의 아이콘 폰트 사용
+* CSS, HTML 사용
+* Fontawesome의 아이콘 폰트 사용
 #### * Kakao map 사용
 #### * 실습
 #### < HTML 구조 만들기>
