@@ -21,7 +21,7 @@
 #### 8. 시작 화면 UI 및 기능 구현[[Summay]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EC%8B%9C%EC%9E%91%20%ED%99%94%EB%A9%B4%20UI%20%EB%B0%8F%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84.md)
 
 ### 드리머리
-#### 1. Django, 그게 뭐야?[[Summary]]
+#### 1. Django, 그게 뭐야?[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django,%20%EA%B7%B8%EA%B2%8C%20%EB%AD%90%EC%95%BC%3F.md)
 #### 2. Hello, Django[[Summary]]
 #### 3. Django가 관리하는 법[[Summary]]
 #### 4. Django로 나를 소개해볼게#1[[Summary]]
