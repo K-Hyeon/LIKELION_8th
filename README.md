@@ -22,7 +22,7 @@
 
 ### 드리머리
 #### 1. Django, 그게 뭐야?[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django,%20%EA%B7%B8%EA%B2%8C%20%EB%AD%90%EC%95%BC%3F.md)
-#### 2. Hello, Django[[Summary]]
+#### 2. Hello, Django[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Hello%2C%20Django.md)
 #### 3. Django가 관리하는 법[[Summary]]
 #### 4. Django로 나를 소개해볼게#1[[Summary]]
 #### 5. Django로 나를 소개해볼게#2[[Summary]]
