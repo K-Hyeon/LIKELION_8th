@@ -19,3 +19,13 @@
 #### 6. 메인 화면 UI 작업 [[Summay]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4%20UI%20%EC%9E%91%EC%97%85.md)
 #### 7. 메인 화면 기능 구현[[Summay]]( https://github.com/K-Hyeon/Likelion8th/blob/master/%EB%A9%94%EC%9D%B8%20%ED%99%94%EB%A9%B4%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84.md)
 #### 8. 시작 화면 UI 및 기능 구현[[Summay]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EC%8B%9C%EC%9E%91%20%ED%99%94%EB%A9%B4%20UI%20%EB%B0%8F%20%EA%B8%B0%EB%8A%A5%20%EA%B5%AC%ED%98%84.md)
+
+### 드리머리
+#### 1. Django, 그게 뭐야?[[Summary]]
+#### 2. Hello, Django[[Summary]]
+#### 3. Django가 관리하는 법[[Summary]]
+#### 4. Django로 나를 소개해볼게#1[[Summary]]
+#### 5. Django로 나를 소개해볼게#2[[Summary]]
+#### 6. Django는 중복을 싫어해[[Summary]]
+#### 7. CRUD#1[[Summary]]
+#### 8. CRUD#2[[Summary]]
