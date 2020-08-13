@@ -25,7 +25,7 @@
 #### 2. Hello, Django[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Hello%2C%20Django.md)
 #### 3. Django가 관리하는 법[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EA%B0%80%20%EA%B4%80%EB%A6%AC%ED%95%98%EB%8A%94%20%EB%B2%95.md)
 #### 4. Django로 나를 소개해볼게#1[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EB%A1%9C%20%EB%82%98%EB%A5%BC%20%EC%86%8C%EA%B0%9C%ED%95%B4%EB%B3%BC%EA%B2%8C%231.md)
-#### 5. Django로 나를 소개해볼게#2[[Summary]]
+#### 5. Django로 나를 소개해볼게#2[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EB%A1%9C%20%EB%82%98%EB%A5%BC%20%EC%86%8C%EA%B0%9C%ED%95%B4%EB%B3%BC%EA%B2%8C%232.md)
 #### 6. Django는 중복을 싫어해[[Summary]]
 #### 7. CRUD#1[[Summary]]
 #### 8. CRUD#2[[Summary]]
