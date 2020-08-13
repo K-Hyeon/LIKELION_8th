@@ -27,5 +27,5 @@
 #### 4. Django로 나를 소개해볼게#1[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EB%A1%9C%20%EB%82%98%EB%A5%BC%20%EC%86%8C%EA%B0%9C%ED%95%B4%EB%B3%BC%EA%B2%8C%231.md)
 #### 5. Django로 나를 소개해볼게#2[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EB%A1%9C%20%EB%82%98%EB%A5%BC%20%EC%86%8C%EA%B0%9C%ED%95%B4%EB%B3%BC%EA%B2%8C%232.md)
 #### 6. Django는 중복을 싫어해[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EB%8A%94%20%EC%A4%91%EB%B3%B5%EC%9D%84%20%EC%8B%AB%EC%96%B4%ED%95%B4.md)
-#### 7. CRUD#1[[Summary]]
+#### 7. CRUD#1[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/CRUD%231.md)
 #### 8. CRUD#2[[Summary]]
