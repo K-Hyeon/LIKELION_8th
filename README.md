@@ -35,7 +35,7 @@
 #### 2. 모델과 데이터베이스[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EB%AA%A8%EB%8D%B8%EA%B3%BC%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4.md)
 #### 3. ModelForm[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/ModelForm.md)
 #### 4. PrimaryKey[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/PrimaryKey.md)
-#### 5. User[[Summary]](
+#### 5. User[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/User.md)
 #### 6. ForeignKey[[Summary]](
 #### 7. 댓글 만들기[[Summary]](
 #### 8. 글자수 [[Summary]](
