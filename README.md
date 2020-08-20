@@ -38,4 +38,4 @@
 #### 5. User[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/User.md)
 #### 6. ForeignKey[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/ForeignKey.md)
 #### 7. 댓글 만들기[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EB%8C%93%EA%B8%80%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
-#### 8. 글자수 [[Summary]](
+#### 8. 글자수세기[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EA%B8%80%EC%9E%90%EC%88%98%EC%84%B8%EA%B8%B0.md)
