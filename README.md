@@ -29,3 +29,13 @@
 #### 6. Django는 중복을 싫어해[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/Django%EB%8A%94%20%EC%A4%91%EB%B3%B5%EC%9D%84%20%EC%8B%AB%EC%96%B4%ED%95%B4.md)
 #### 7. CRUD#1[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/CRUD%231.md)
 #### 8. CRUD#2[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/CRUD%232.md)
+
+### 자소설 닷컴
+#### 1. 자소설 닷컴 만들기[[Summary]](
+#### 2. 모델과 데이터베이스[[Summary]](
+#### 3. ModelForm[[Summary]](
+#### 4. FrimaryKey[[Summary]](
+#### 5. User[[Summary]](
+#### 6. ForeignKey[[Summary]](
+#### 7. 댓글 만들기[[Summary]](
+#### 8. 글자수 [[Summary]](
