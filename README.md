@@ -36,6 +36,6 @@
 #### 3. ModelForm[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/ModelForm.md)
 #### 4. PrimaryKey[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/PrimaryKey.md)
 #### 5. User[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/User.md)
-#### 6. PoreignKey[[Summary]](
+#### 6. ForeignKey[[Summary]](
 #### 7. 댓글 만들기[[Summary]](
 #### 8. 글자수 [[Summary]](
