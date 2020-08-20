@@ -31,7 +31,7 @@
 #### 8. CRUD#2[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/CRUD%232.md)
 
 ### 자소설 닷컴
-#### 1. 자소설 닷컴 만들기[[Summary]](
+#### 1. 자소설 닷컴 만들기[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/%EC%9E%90%EC%86%8C%EC%84%A4%20%EB%8B%B7%EC%BB%B4%20%EB%A7%8C%EB%93%A4%EA%B8%B0.md)
 #### 2. 모델과 데이터베이스[[Summary]](
 #### 3. ModelForm[[Summary]](
 #### 4. FrimaryKey[[Summary]](
