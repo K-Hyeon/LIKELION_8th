@@ -1,7 +1,11 @@
-## Likelion8th 김혜현
+<h1 align="center">Likelion8th 김혜현</h1>
 
-1학기 커리큘럼
--------------
+## 📍 [Final Project](https://github.com/K-Hyeon/ToMagGeul) : ToMagGeul
+#### 소설의 토막글을 정기배송해주는 플랫폼입니다.
+
+<br><br>
+## 📚 1학기 커리큘럼
+
 ### Github & 배포
 
 #### 1. README 기초[[Summary]](https://github.com/K-Hyeon/Likelion8th/blob/master/README%20%EA%B8%B0%EC%B4%88%20.md)
